@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MEMS>
+<DeviceType TypeID='0'>
+	<Device ID='BP_001'>
+		<MeaPoint DataType='16' MeaType='1'>YC_BP_001_01</MeaPoint>
+		<MeaPoint DataType='19' MeaType='1'>YC_BP_001_03</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>BP_001</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>BP_001</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_BP_001_2467</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>INV_BP_001</MeaPoint>
+	</Device>
+	<Device ID='BP_002'>
+		<MeaPoint DataType='16' MeaType='1'>YC_BP_002_01</MeaPoint>
+		<MeaPoint DataType='19' MeaType='1'>YC_BP_002_03</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>BP_002</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>BP_002</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_BP_002_2467</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>INV_BP_002</MeaPoint>
+	</Device>
+	<Device ID='BP_003'>
+		<MeaPoint DataType='16' MeaType='1'>YC_BP_003_01</MeaPoint>
+		<MeaPoint DataType='19' MeaType='1'>YC_BP_003_03</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>BP_003</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>BP_003</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_BP_003_2467</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>INV_BP_003</MeaPoint>
+	</Device>
+	<Device ID='BP_004'>
+		<MeaPoint DataType='16' MeaType='1'>YC_BP_004_01</MeaPoint>
+		<MeaPoint DataType='19' MeaType='1'>YC_BP_004_03</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>BP_004</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>BP_004</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_BP_004_2467</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>INV_BP_004</MeaPoint>
+	</Device>
+</DeviceType>
+<DeviceType TypeID='1'>
+	<Device ID='PV_001'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_001</MeaPoint>
+	</Device>
+	<Device ID='PV_002'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_002</MeaPoint>
+	</Device>
+	<Device ID='PV_003'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_003</MeaPoint>
+	</Device>
+	<Device ID='PV_004'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_004</MeaPoint>
+	</Device>
+	<Device ID='PV_005'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_005</MeaPoint>
+	</Device>
+	<Device ID='PV_006'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_006</MeaPoint>
+	</Device>
+	<Device ID='PV_007'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_007</MeaPoint>
+	</Device>
+	<Device ID='PV_008'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_008</MeaPoint>
+	</Device>
+	<Device ID='PV_009'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_009</MeaPoint>
+	</Device>
+	<Device ID='PV_010'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_010</MeaPoint>
+	</Device>
+	<Device ID='PV_011'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_011</MeaPoint>
+	</Device>
+	<Device ID='PV_012'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_012</MeaPoint>
+	</Device>
+	<Device ID='PV_013'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_013</MeaPoint>
+	</Device>
+	<Device ID='PV_014'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_014</MeaPoint>
+	</Device>
+	<Device ID='PV_015'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_015</MeaPoint>
+	</Device>
+	<Device ID='PV_016'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_016</MeaPoint>
+	</Device>
+	<Device ID='PV_017'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_017</MeaPoint>
+	</Device>
+	<Device ID='PV_018'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_018</MeaPoint>
+	</Device>
+	<Device ID='PV_019'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_019</MeaPoint>
+	</Device>
+	<Device ID='PV_020'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_020</MeaPoint>
+	</Device>
+	<Device ID='PV_021'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_021</MeaPoint>
+	</Device>
+	<Device ID='PV_022'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_022</MeaPoint>
+	</Device>
+	<Device ID='PV_023'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_023</MeaPoint>
+	</Device>
+	<Device ID='PV_024'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_024</MeaPoint>
+	</Device>
+	<Device ID='PV_025'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_025</MeaPoint>
+	</Device>
+	<Device ID='PV_026'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_026</MeaPoint>
+	</Device>
+	<Device ID='PV_027'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_027</MeaPoint>
+	</Device>
+	<Device ID='PV_028'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_028</MeaPoint>
+	</Device>
+	<Device ID='PV_029'>
+		<MeaPoint DataType='4001' MeaType='0'>INV_PV_029</MeaPoint>
+	</Device>
+</DeviceType>
+<DeviceType TypeID='2'>
+	<Device ID='INV_BP_000'>
+	</Device>
+	<Device ID='INV_BP_001'>
+		<MeaPoint DataType='1' MeaType='1'>YC_INV_BP_001_01</MeaPoint>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_BP_001_02</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_BP_001</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_BP_001</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_BP_001_132</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>BP_001</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_BM_001</MeaPoint>
+		<MeaPoint DataType='4002' MeaType='0'>INV_BP_000</MeaPoint>
+	</Device>
+	<Device ID='INV_BP_002'>
+		<MeaPoint DataType='1' MeaType='1'>YC_INV_BP_002_01</MeaPoint>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_BP_002_02</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_BP_002</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_BP_002</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_BP_001_81</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>BP_002</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_BM_001</MeaPoint>
+		<MeaPoint DataType='4002' MeaType='0'>INV_BP_000</MeaPoint>
+	</Device>
+	<Device ID='INV_BP_003'>
+		<MeaPoint DataType='1' MeaType='1'>YC_INV_BP_003_01</MeaPoint>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_BP_003_02</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_BP_003</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_BP_003</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_BP_001_124</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>BP_003</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_BM_001</MeaPoint>
+		<MeaPoint DataType='4002' MeaType='0'>INV_BP_000</MeaPoint>
+	</Device>
+	<Device ID='INV_BP_004'>
+		<MeaPoint DataType='1' MeaType='1'>YC_INV_BP_004_01</MeaPoint>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_BP_004_02</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_BP_004</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_BP_004</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_BP_001_125</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>BP_004</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_BM_001</MeaPoint>
+		<MeaPoint DataType='4002' MeaType='0'>INV_BP_000</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_001'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_001_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_001</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_001</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_001_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_001</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_001</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_002'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_002_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_002</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_002</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_002_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_002</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_002</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_003'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_003_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_003</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_003</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_003_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_003</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_003</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_004'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_004_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_004</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_004</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_004_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_004</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_004</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_005'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_005_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_005</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_005</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_005_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_005</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_005</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_006'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_006_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_006</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_006</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_006_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_006</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_006</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_007'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_007_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_007</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_007</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_007_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_007</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_007</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_008'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_008_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_008</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_008</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_008_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_008</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_008</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_009'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_009_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_009</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_009</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_009_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_009</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_009</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_010'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_010_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_010</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_010</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_010_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_010</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_010</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_011'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_011_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_011</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_011</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_011_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_011</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_011</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_012'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_012_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_012</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_012</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_012_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_012</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_012</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_013'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_013_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_013</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_013</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_013_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_013</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_013</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_014'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_014_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_014</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_014</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_014_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_014</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_014</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_015'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_015_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_015</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_015</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_015_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_015</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_015</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_016'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_016_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_016</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_016</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_016_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_016</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_016</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_017'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_017_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_017</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_017</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_017_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_017</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_017</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_018'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_018_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_018</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_018</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_018_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_018</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_018</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_019'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_019_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_019</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_019</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_019_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_019</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_019</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_020'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_020_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_020</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_020</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_020_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_020</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_020</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_021'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_021_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_021</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_021</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_021_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_021</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_021</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_022'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_022_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_022</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_022</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_022_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_022</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_022</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_023'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_023_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_023</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_023</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_023_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_023</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_023</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_024'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_024_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_024</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_024</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_024_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_024</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_024</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_025'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_025_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_025</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_025</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_025_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_025</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_025</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_026'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_026_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_026</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_026</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_026_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_026</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_026</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_027'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_027_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_027</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_027</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_027_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_027</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_027</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_028'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_028_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_028</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_028</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_028_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_028</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_028</MeaPoint>
+	</Device>
+	<Device ID='INV_PV_029'>
+		<MeaPoint DataType='13' MeaType='1'>YC_INV_PV_029_16</MeaPoint>
+		<MeaPoint DataType='2000' MeaType='0'>INV_PV_029</MeaPoint>
+		<MeaPoint DataType='2002' MeaType='0'>INV_PV_029</MeaPoint>
+		<MeaPoint DataType='2014' MeaType='2'>YX_INV_PV_029_31</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>PV_029</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>SW_PV_029</MeaPoint>
+	</Device>
+</DeviceType>
+<DeviceType TypeID='3'>
+	<Device ID='LINE_008'>
+		<MeaPoint DataType='3' MeaType='1'>YC_MG_001_P</MeaPoint>
+	</Device>
+</DeviceType>
+<DeviceType TypeID='4'>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_001</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_002</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_003</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_004</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_001</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_002</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_003</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_BM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_BM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_BP_004</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PVM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PVM_001_01</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_001</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_002'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_002_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_002</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_003'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_003_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_003</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_004'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_004_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_004</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_005'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_005_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_005</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_006'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_006_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_006</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_007'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_007_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_007</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_008'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_008_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_008</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_009'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_009_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_009</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_010'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_010_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_010</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_011'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_011_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_011</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_012'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_012_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_012</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_013'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_013_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_013</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_014'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_014_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_014</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_015'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_015_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_015</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_016'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_016_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_016</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_017'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_017_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_017</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_018'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_018_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_018</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_019'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_019_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_019</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_020'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_020_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_020</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_021'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_021_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_021</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_022'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_022_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_022</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_023'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_023_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_023</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_024'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_024_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_024</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_025'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_025_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_025</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_026'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_026_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_026</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_027'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_027_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_027</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_028'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_028_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_028</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+	<Device ID='SW_PV_029'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PV_029_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>INV_PV_029</MeaPoint>
+		<MeaPoint DataType='4001' MeaType='0'>BUS_001</MeaPoint>
+	</Device>
+</DeviceType>
+<DeviceType TypeID='5'>
+	<Device ID='SW_PVM_001'>
+		<MeaPoint DataType='2001' MeaType='2'>YX_SW_PVM_001_01</MeaPoint>
+		<MeaPoint DataType='4000' MeaType='0'>SW_PVM_001</MeaPoint>
+	</Device>
+</DeviceType>
+</MEMS>
